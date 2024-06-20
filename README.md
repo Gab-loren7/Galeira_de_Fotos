@@ -1,10 +1,46 @@
-# Galeira_de_Fotos
-Uma galeria de fotos do safari feito em HTML e CSS.
+ <!-- Cabeçario -->
+ 
+<div align="center">
+  <h1>
+    😎 Seja bem-vindo a minha galeria de fotos 😎
+  </h1>
+  <h3>
+    Uma galeria de fotos do safari feito em HTML e CSS.
+  </h3>
+</div>
 
+<br>
 
+ <!-- Pré-visualização do Site -->
+<h3>
+    ✨ Pré-visualização do site!
+</h3>
+  
+  ![image](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/eb983b91-41f4-4010-9f61-027738e05054)
 
-![image](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/dffd3dc1-cbd3-4d6e-ab52-808bec8fce59)
+<br>
 
-![image](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/1ce07905-2bd7-418b-99c1-89000d92bf0b)
+ <!-- Código do Site -->
+<div align="center">
+  <h1>
+     👨‍💻 Código do site!
+  </h1>
+</div>
 
-![image](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/c49d61bc-f6f7-4b82-a3a0-6f15d6b4aaf9)
+<br>
+
+   <!-- Código HTML -->
+<h3>
+    🟠 Código HTML
+</h3>
+
+![print code html](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/2b535553-52e3-4de1-a715-53e896d5e281)
+
+<br>
+
+  <!-- Código CSS -->
+<h3>
+    🔵 Código CSS
+</h3>
+
+![print code css](https://github.com/Gab-loren7/Galeira_de_Fotos/assets/162520540/30dc7f46-01fa-402d-9a92-9f16beca90ea)
