@@ -2,7 +2,7 @@
  
 <div align="center">
   <h1>
-    😎 Seja bem-vindo a minha galeria de fotos 😎
+    🖼 Seja bem-vindo a minha galeria de fotos 🖼
   </h1>
   <h3>
     Uma galeria de fotos do safari feito em HTML e CSS.
